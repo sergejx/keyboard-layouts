@@ -179,7 +179,7 @@ xkb_symbols "phonetic" {
 
     key <TLDE> { [       Cyrillic_yu,       Cyrillic_YU  ] };
     key <LatQ> { [       Cyrillic_ya,       Cyrillic_YA  ] };
-    key <LatZ> { [       Cyrillic_ze,       Cyrillic_ZE  ] };
+    key <AB01> { [       Cyrillic_ze,       Cyrillic_ZE  ] };
     key <LatS> { [       Cyrillic_es,       Cyrillic_ES  ] };
     key <LatA> { [        Cyrillic_a,        Cyrillic_A  ] };
     key <LatW> { [       Cyrillic_zhe,       Cyrillic_ZHE  ] };
@@ -195,7 +195,7 @@ xkb_symbols "phonetic" {
     key <LatB> { [       Cyrillic_be,       Cyrillic_BE  ] };
     key <LatH> { [       Cyrillic_ha,       Cyrillic_HA  ] };
     key <LatG> { [      Cyrillic_ghe,      Cyrillic_GHE  ] };
-    key <LatY> { [     Cyrillic_yeru,     Cyrillic_YERU  ] };
+    key <AD06> { [     Cyrillic_yeru,     Cyrillic_YERU  ] };
     key <LatM> { [       Cyrillic_em,       Cyrillic_EM  ] };
     key <LatJ> { [   Cyrillic_shorti,   Cyrillic_SHORTI  ] };
     key <LatU> { [        Cyrillic_u,        Cyrillic_U  ] };
